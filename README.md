@@ -2,6 +2,8 @@
   <img src="./dilithium.png"/>
 </p>
 
+Fork with `no_std` pull request merged/
+
 
 # Dilithium
 [![Build Status](https://github.com/Argyle-Software/dilithium/actions/workflows/kat.yml/badge.svg)](https://github.com/Argyle-Software/dilithium/actions)

@@ -1,3 +1,5 @@
+#![no_std]
+
 #[cfg(feature = "aes")]
 mod aes256ctr;
 mod api;
